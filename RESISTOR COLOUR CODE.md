@@ -31,6 +31,8 @@ Determine the value and tolerance of the 10 resistors as shown in the following 
 
 ## Table 2-2
 
+
+
 ## Table 2-3
 
 ## Table 2-4
